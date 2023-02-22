@@ -97,3 +97,25 @@ p{
     width:30%;
     padding-top:3%;
 }
+
+#Partners{
+    background-color: #ef8172;
+    text-align: center;
+    padding-bottom: 3%;
+    
+}
+
+.partner-images{
+    width:200px;
+    height:60px;
+}
+
+#membership{
+    text-align: center;
+    padding:3% 15%;
+}
+
+
+.card-body{
+    padding:5% 0 5% 0;
+}
